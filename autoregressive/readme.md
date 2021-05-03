@@ -11,10 +11,7 @@ Trained models have also been uploaded in `saved` directory, and sampling has be
 | Only pixel value as input | previous + inverted pixel appended | previous + location information appended | 
 
 ## Masked Auto-Encoder for Distribution Estimation (MADE)
-
-|<img align='center' src="demonstrations/made_sample_1.png" alt="drawing" width="180"/>|<img align='center' src="demonstrations/made_sample_2.png" alt="drawing" width="180"/> |<img align='center' src="demonstrations/made_sample_3.png" alt="drawing" width="180"/> |
-|:---:|:----:|:----:|
-
+Images were too low res to display, can be found [here](demonstrations/)
 
 ## Class-Conditional PixelCNN
 
