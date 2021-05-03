@@ -12,7 +12,7 @@ Trained models have also been uploaded in `saved` directory, and sampling has be
 
 ## Masked Auto-Encoder for Distribution Estimation (MADE)
 
-|<img align='left' src="demonstrations/made_sample_1.png" alt="drawing"/>|<img align='center' src="demonstrations//made_sample_2.png" alt="drawing"/> |<img align='center' src="demonstrations/made_sample_3.png" alt="drawing" /> |<img align='right' src="demonstrations/made_sample_3.png" alt="drawing"/> |
+|<img align='left' src="demonstrations/made_sample_1.png" alt="drawing" width="200"/>|<img align='center' src="demonstrations/made_sample_2.png" alt="drawing" width="200"/> |<img align='center' src="demonstrations/made_sample_3.png" alt="drawing" width="200"/> |<img align='right' src="demonstrations/made_sample_3.png" alt="drawing" width="200"/> |
 |:---:|:----:|:----:|:----:|
 
 
