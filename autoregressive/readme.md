@@ -6,19 +6,19 @@ Trained models have also been uploaded in `saved` directory, and sampling has be
 
 ## Autoregressive RNN 
 
-|<img src="re-implementations/autoregressive/demonstrations/ar_rnn_sample_1.png" alt="drawing" width="300"/>|<img src="https://github.com/amanshenoy/autoregressive/blob/master/demonstrations/ar_rnn_sample_2.png" alt="drawing" width="300"/> |<img src="https://github.com/amanshenoy/autoregressive/blob/master/demonstrations/ar_rnn_sample_3.png" alt="drawing" width="300"/> |
+|<img src="autoregressive/demonstrations/ar_rnn_sample_1.png" alt="drawing" width="300"/>|<img src="autoregressive/demonstrations/ar_rnn_sample_2.png" alt="drawing" width="300"/> |<img src="autoregressive/demonstrations/ar_rnn_sample_3.png" alt="drawing" width="300"/> |
 |:---:|:----:|:----:|
 | Only pixel value as input | previous + inverted pixel appended | previous + location information appended | 
 
 ## Masked Auto-Encoder for Distribution Estimation (MADE)
 
-|<img align='left' src="https://github.com/amanshenoy/autoregressive/blob/master/demonstrations/made_sample_1.png" alt="drawing"/>|<img align='center' src="https://github.com/amanshenoy/autoregressive/blob/master/demonstrations/made_sample_2.png" alt="drawing"/> |<img align='center' src="https://github.com/amanshenoy/autoregressive/blob/master/demonstrations/made_sample_3.png" alt="drawing" /> |<img align='right' src="https://github.com/amanshenoy/autoregressive/blob/master/demonstrations/made_sample_3.png" alt="drawing"/> |
+|<img align='left' src="autoregressive/demonstrations/made_sample_1.png" alt="drawing"/>|<img align='center' src="autoregressive/demonstrations//made_sample_2.png" alt="drawing"/> |<img align='center' src="autoregressive/demonstrations/made_sample_3.png" alt="drawing" /> |<img align='right' src="autoregressive/demonstrations/made_sample_3.png" alt="drawing"/> |
 |:---:|:----:|:----:|:----:|
 
 
 ## Class-Conditional PixelCNN
 
-|<img src="https://github.com/amanshenoy/autoregressive/blob/master/demonstrations/pixel_cnn_6.png" alt="drawing" width="300"/>|<img src="https://github.com/amanshenoy/autoregressive/blob/master/demonstrations/pixel_cnn_7.png" alt="drawing" width="300"/> |<img src="https://github.com/amanshenoy/autoregressive/blob/master/demonstrations/pixel_cnn_8.png" alt="drawing" width="300"/> |
+|<img src="autoregressive/demonstrations/pixel_cnn_6.png" alt="drawing" width="300"/>|<img src="autoregressive/demonstrations/pixel_cnn_7.png" alt="drawing" width="300"/> |<img src="autoregressive/demonstrations/pixel_cnn_8.png" alt="drawing" width="300"/> |
 |:---:|:----:|:----:|
 | Class Conditional for 6 | Class Conditional for 7 | Class Conditional for 8 | 
 
