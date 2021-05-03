@@ -6,7 +6,7 @@ Trained models have also been uploaded in `saved` directory, and sampling has be
 
 ## Autoregressive RNN 
 
-|<img src=" demonstrations/ar_rnn_sample_1.png" alt="drawing" width="300"/>|<img src=" demonstrations/ar_rnn_sample_2.png" alt="drawing" width="300"/> |<img src=" demonstrations/ar_rnn_sample_3.png" alt="drawing" width="300"/> |
+|<img src="demonstrations/ar_rnn_sample_1.png" alt="drawing" width="300"/>|<img src=" demonstrations/ar_rnn_sample_2.png" alt="drawing" width="300"/> |<img src=" demonstrations/ar_rnn_sample_3.png" alt="drawing" width="300"/> |
 |:---:|:----:|:----:|
 | Only pixel value as input | previous + inverted pixel appended | previous + location information appended | 
 
